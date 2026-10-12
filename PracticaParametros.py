@@ -62,3 +62,13 @@ generar_boleta("Luis Pérez", 6.0, 7.5)
 
 # Caso 4: Alumno Reprobado por debajo de la nota mínima (Requiere extraordinario)
 generar_boleta("Sofía Castro", 5.0, 5.5)
+
+
+
+escribir un programa en pytnon  que gestione una lista de nombres medianteoperaciones de incersion ,busqueda por indice y estraccion de sublistas utilizando sicling crea una lista inicial 
+crea una lista llamada estudiantes que contenga los nombres ana,carlos y diana 
+imprime la lista  original en pantalla 
+insercion de elementos 
+agraga al final de la lsista ala estudiante elena  utilizando (.append())
+inserta ala estudiante beatriz en la posicion  con indice 1 usando el metodo  .insert() muestra en pantalla  la lista actualizada  tras ambas incersiones 
+busquedas y acceso por indice 
