@@ -1,7 +1,7 @@
 import time
 from collections import deque
 
-# 2. Inicializar la cola
+# 2. Inicia la cola
 cola_turnos = deque()
 
 # 3. Registrar turnos (Encolar - FIFO)
