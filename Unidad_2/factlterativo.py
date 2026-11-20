@@ -7,5 +7,4 @@ def factorial_iterativo(n):
 print(factorial_iterativo(5))    
 
 
-        
     
